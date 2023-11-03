@@ -4,4 +4,5 @@ data = pd.read_csv('excel-comp-data.csv')
 
 for index, row in data.iterrows():
     print('Name:', row['name'], 'City:', row['city'], 'Income:', row['Jan']+row['Feb']+row["Mar"])
-    print("Test")
+    print("Bojan")
+    print('Gjorgji')
