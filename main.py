@@ -8,4 +8,3 @@ for index, row in data.iterrows():
     print('Gjorgji')
     print('Viktor')
     print('Elena')
-    print("Test GitHub")
