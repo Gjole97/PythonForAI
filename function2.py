@@ -1,0 +1,2 @@
+def zdravo():
+    print('zdravo')
