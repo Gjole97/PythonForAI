@@ -6,4 +6,4 @@ for index, row in data.iterrows():
     print('Name:', row['name'], 'City:', row['city'], 'Income:', row['Jan']+row['Feb']+row["Mar"])
     print("Bojan")
     print('Gjorgji')
-    print('Elena')
+    print('Viktor')
