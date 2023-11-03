@@ -7,3 +7,4 @@ for index, row in data.iterrows():
     print("Bojan")
     print('Gjorgji')
     print('Viktor')
+    print("Elena")
